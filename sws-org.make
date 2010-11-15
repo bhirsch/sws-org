@@ -7,11 +7,6 @@ projects[casetracker][subdir] = "contrib"
 projects[casetracker][version] = 1.0-beta8
 
 ; Features
- 
-projects[o_features][type] = "module"
-projects[o_features][download][type] = "git" 
-projects[o_features][download][url] = "git://github.com/bhirsch/o_features.git"
-projects[o_features][download][tag] = 0.0
 
 ; Custom 
 
